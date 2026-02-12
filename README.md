@@ -1,13 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header)
-
 <div align="center">
 
 ### 👋 关于我
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2381F7&center=true&vCenter=true&width=435&lines=正在开发+Socialmatch+(社交应用);正在学习+AI+与大模型技术;热爱+Java+%2F+Vue+%2F+Python" alt="Typing SVG" />
-
-我是 **CX.Cheng**，一名来自 **中国** 的开发者。
-我专注于构建高效的软件并探索前沿技术，致力于将创意转化为代码。
+我是 **ZeroOneCN**，一名正在 **学习** 的开发者。
+致力于将创意转化为代码。
 
 ---
 

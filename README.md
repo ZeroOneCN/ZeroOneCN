@@ -17,28 +17,6 @@
 
 ---
 
-### 📊 GitHub 统计
-
-> ⚠️ **注意**: 动态统计图可能因网络原因无法加载。如遇此情况，建议配置 **GitHub Action** 生成静态图片（见文末说明）。
-
-<p align="center">
-  <!-- 尝试使用非 Vercel 的部署或精简参数 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroOneCN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroOneCN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
-</p>
-
-<!-- 
-Streak Stats 经常挂，暂时注释掉，如果想用可以解开
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroOneCN&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
--->
-
----
-
 ### 🏆 精选项目
 
 | 项目名称 | 项目描述 | 技术栈 |

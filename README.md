@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=你好，我是%20CX.Cheng&fontSize=70&animation=fadeIn&fontAlignY=40&desc=探索代码的无限可能&descAlignY=60&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header)
 
 <div align="center">
 
@@ -23,14 +23,23 @@
 
 ### 📊 GitHub 统计
 
+> ⚠️ **注意**: 动态统计图可能因网络原因无法加载。如遇此情况，建议配置 **GitHub Action** 生成静态图片（见文末说明）。
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroOneCN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="Stats" />
+  <!-- 尝试使用非 Vercel 的部署或精简参数 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroOneCN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroOneCN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" alt="Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroOneCN&theme=tokyonight&hide_border=true&locale=cn" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroOneCN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
 </p>
+
+<!-- 
+Streak Stats 经常挂，暂时注释掉，如果想用可以解开
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroOneCN&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+-->
 
 ---
 
@@ -46,5 +55,8 @@
 </div>
 
 <!--
-**ZeroOneCN/ZeroOneCN** 是一个 ✨ _特殊_ ✨ 的仓库，因为它的 `README.md`（此文件）会出现在您的 GitHub 个人主页上。
+### 📝 如何解决图片加载失败？
+如果您发现统计图无法显示，推荐使用 **GitHub Actions** 生成静态图片，这样就永远不会挂了。
+1. 在仓库中创建 `.github/workflows/metrics.yml`
+2. 使用 `lowlighter/metrics` Action。
 -->

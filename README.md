@@ -51,19 +51,14 @@
 
 </div>
 
-## 更多仓库
-
-| 分类 | 仓库 |
-| :--- | :--- |
-| **生活记录** | [Runrecord](https://github.com/ZeroOneCN/Runrecord) · [Bodyhealth](https://github.com/ZeroOneCN/Bodyhealth) · [Medication](https://github.com/ZeroOneCN/Medication) · [Todolist](https://github.com/ZeroOneCN/Todolist) |
-| **账单话费** | [Repayrecord](https://github.com/ZeroOneCN/Repayrecord) · [LoanRepay](https://github.com/ZeroOneCN/LoanRepay) · [Simnotice](https://github.com/ZeroOneCN/Simnotice) |
-| **效率工具** | [Miniproject](https://github.com/ZeroOneCN/Miniproject) · [AutoClick](https://github.com/ZeroOneCN/AutoClick) · [DeskIT](https://github.com/ZeroOneCN/DeskIT) |
-| **交易与监控** | [XAU-GRID](https://github.com/ZeroOneCN/XAU-GRID) · [Forex_trade](https://github.com/ZeroOneCN/Forex_trade) · [XAUMonitor](https://github.com/ZeroOneCN/XAUMonitor) · [tgmonitor](https://github.com/ZeroOneCN/tgmonitor) |
-| **硬件与协议** | [AntAF](https://github.com/ZeroOneCN/AntAF) · [G3](https://github.com/ZeroOneCN/G3) · [SmsRe](https://github.com/ZeroOneCN/SmsRe) |
-
 <div align="center">
 
-**[全部 46 个仓库 →](https://github.com/ZeroOneCN?tab=repositories)**
+<br />
+<br />
+
+<a href="https://github.com/ZeroOneCN?tab=repositories">
+  <img height="46" src="https://img.shields.io/badge/VIEW_ALL_46_REPOSITORIES-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="查看全部 46 个仓库" />
+</a>
 
 </div>
 

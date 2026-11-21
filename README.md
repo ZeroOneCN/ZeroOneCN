@@ -5,7 +5,7 @@
 ### 把生活里的琐事，做成真正能用的工具。
 
 [![Repos](https://img.shields.io/badge/仓库-46-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroOneCN?tab=repositories)
-[![Stars](https://img.shields.io/badge/Star-70%2B-F59E0B?style=for-the-badge&logo=star&logoColor=white)](https://github.com/ZeroOneCN?tab=repositories&q=&type=&language=&sort=stargazers)
+[![Stars](https://img.shields.io/badge/Star-90-F59E0B?style=for-the-badge&logo=star&logoColor=white)](https://github.com/ZeroOneCN?tab=repositories&q=&type=&language=&sort=stargazers)
 [![Profile Views](https://komarev.com/ghpvc/?username=ZeroOneCN&style=for-the-badge&color=6366F1&label=VISITORS)](https://github.com/ZeroOneCN)
 
 </div>

@@ -17,20 +17,20 @@
 | 生活数字化 | 交易与资产 | 效率工具 |
 | :--- | :--- | :--- |
 | 把身体、作息、账单、居住成本，都变成可分析的数据 | 记录行情与交易，用数据复盘，而不是靠感觉 | 把每天重复的手工操作，做成一键完成的小工具 |
-| [LifeOS2](https://github.com/ZeroOneCN/LifeOS2) · [fitness](https://github.com/ZeroOneCN/fitness) · [Bodyhealth](https://github.com/ZeroOneCN/Bodyhealth) · [Runrecord](https://github.com/ZeroOneCN/Runrecord) | [GoldBill](https://github.com/ZeroOneCN/GoldBill) · [XAU-GRID](https://github.com/ZeroOneCN/XAU-GRID) · [Forex_trade](https://github.com/ZeroOneCN/Forex_trade) | [GitManager](https://github.com/ZeroOneCN/GitManager) · [Miniproject](https://github.com/ZeroOneCN/Miniproject) · [AutoClick](https://github.com/ZeroOneCN/AutoClick) |
+| [LifeOS2](https://github.com/ZeroOneCN/LifeOS2) · [AiJianShen](https://github.com/ZeroOneCN/AiJianShen) · [BodyHealth](https://github.com/ZeroOneCN/BodyHealth) · [RunRecord](https://github.com/ZeroOneCN/RunRecord) | [GoldBill](https://github.com/ZeroOneCN/GoldBill) · [XauGrid](https://github.com/ZeroOneCN/XauGrid) · [ForexTrade](https://github.com/ZeroOneCN/ForexTrade) | [GitManager](https://github.com/ZeroOneCN/GitManager) · [MiniProject](https://github.com/ZeroOneCN/MiniProject) · [AutoClick](https://github.com/ZeroOneCN/AutoClick) |
 
 ## 精选项目
 
 | 项目 | 类型 | 说明 | 技术 |
 | :--- | :--- | :--- | :--- |
-| **[Articlecheck](https://github.com/ZeroOneCN/Articlecheck)** | 工具 | 基于百度翻译 API 的论文降重工具，多语言转换 + AIGC 降重 · ★ 45 | `Python` |
-| **[fitness](https://github.com/ZeroOneCN/fitness)** | 移动端 | 完全离线的 Android 健身教练：1324 个动作、按周排计划、身体成分记录 | `Java` |
+| **[ArticleCheck](https://github.com/ZeroOneCN/ArticleCheck)** | 工具 | 基于百度翻译 API 的论文降重工具，多语言转换 + AIGC 降重 · ★ 45 | `Python` |
+| **[AiJianShen](https://github.com/ZeroOneCN/AiJianShen)** | 移动端 | 完全离线的 Android 健身教练：1324 个动作、按周排计划、身体成分记录 | `Java` |
 | **[LifeOS2](https://github.com/ZeroOneCN/LifeOS2)** | 平台 | 把生活量化、数字化的应用，持续迭代中的主力项目 | `Dart` |
 | **[GitManager](https://github.com/ZeroOneCN/GitManager)** | 工具 | 管理本地 Git 仓库的可视化 Web 应用 | `Python` |
 | **[Socialmatch](https://github.com/ZeroOneCN/Socialmatch)** | 毕设 | Spring Boot + Vue3 社交匹配应用，附完整 UML 建模与文档 | `Java` `Vue` |
 | **[GoldBill](https://github.com/ZeroOneCN/GoldBill)** | 交易 | 黄金白银交易分析平台，支持 MT5 记录导入 | `Python` |
-| **[Housestat](https://github.com/ZeroOneCN/Housestat)** | 记账 | 房租、水电、中介与服务费的住房花销记录 | `Vue` |
-| **[Hnalines](https://github.com/ZeroOneCN/Hnalines)** | 出行 | 海南航空飞飞乐会员航线查询与行程规划 | `JavaScript` |
+| **[HouseStatus](https://github.com/ZeroOneCN/HouseStatus)** | 记账 | 房租、水电、中介与服务费的住房花销记录 | `Vue` |
+| **[HnaLines](https://github.com/ZeroOneCN/HnaLines)** | 出行 | 海南航空飞飞乐会员航线查询与行程规划 | `JavaScript` |
 
 ## 技术栈
 
